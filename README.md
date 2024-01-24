@@ -1,14 +1,13 @@
 # Loan Eligibility Algorithm
 =======
-# LoanApplication_Prediction
+## LoanApplication_Prediction
 
 
 # Demo
 
-[link](https://loan-app-prediciton.herokuapp.com/)   [![Website perso.crans.org](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](http://perso.crans.org/)
 
 ![Loan App](https://github.com/ayoub-berdeddouch/LoanApplication_Prediction/blob/main/loan_app.PNG)
-![Loan App Predict](https://github.com/ayoub-berdeddouch/LoanApplication_Prediction/blob/main/make_pred.PNG)
+
 
 # Content
 
