@@ -1,0 +1,7 @@
+Process to train and deploy a model in AWS Sagemaker
+
+step 1: Prepare a training script 
+
+step 2: create an estimator (basically a model. we can bring our pre-trained model as well)
+
+step 3: call the fit method and then deploy it to an endpoint
